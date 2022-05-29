@@ -1,1 +1,0 @@
-package dev.tariq.datastructure.stack.exception;

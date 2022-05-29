@@ -1,10 +1,10 @@
 /**
  * 
  */
-package dev.tariq.datastructure.stack;
+package simpleton.dev.datastructure.stack;
 
-import dev.tariq.datastructure.stack.exception.StackEmptyException;
-import dev.tariq.datastructure.stack.exception.StackFullException;
+import simpleton.dev.datastructure.stack.exception.StackEmptyException;
+import simpleton.dev.datastructure.stack.exception.StackFullException;
 
 /**
  * @author tariqul

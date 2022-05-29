@@ -1,0 +1,1 @@
+package simpleton.dev.datastructure.stack.exception;

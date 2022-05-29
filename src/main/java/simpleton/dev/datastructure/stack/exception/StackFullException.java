@@ -1,7 +1,7 @@
 /**
  * 
  */
-package dev.tariq.datastructure.stack.exception;
+package simpleton.dev.datastructure.stack.exception;
 
 import java.io.Serializable;
 

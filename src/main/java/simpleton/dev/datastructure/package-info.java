@@ -5,4 +5,4 @@
  * @author tariqul
  *
  */
-package dev.tariq.datastructure;
+package simpleton.dev.datastructure;
